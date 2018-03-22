@@ -1,15 +1,9 @@
 ![image](https://raw.githubusercontent.com/alexanderjeurissen/ombre.zsh/master/assets/ombre_logo.png)
 
-> Some little splinter
-> Of shadow purls
-> And weals down
-> The slewed stone
-> Chapel steps,
-> Slinks along
-> The riverrock wall
-> And disappears
-> Into the light.
-> ~ Poem by James Galvin
+>Some little splinter of shadow purls, and weals down the slewed stone chapel steps.
+>Slinks along the riverrock wall, and disappears into the light.
+>
+>~ Poem by James Galvin
 
 A light Black & White ZSH prompt that favors simplicity and minimalism.
 Looks even more awesome when combined with [Sombre.tmux](https://github.com/alexanderjeurissen/sombre.tmux)
