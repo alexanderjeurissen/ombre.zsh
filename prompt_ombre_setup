@@ -139,4 +139,4 @@ prompt_ombre_setup() {
 }
 
 prompt_ombre_setup "$@"
-# vim:ft=zsh set foldlevel=0 foldmethod=marker 
+# vim:ft=zsh foldlevel=0 foldmethod=marker 
