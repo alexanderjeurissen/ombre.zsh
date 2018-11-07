@@ -41,8 +41,8 @@ _generate_prompt() {
   #   ok_color="green"
   # fi
 
-  # get timestamp of command execution
-  prompt_content+="%F{8}%*%f"
+  # # get timestamp of command execution
+  # prompt_content+="%F{8}%*%f"
 
   # Only print host name when connected through ssh
   if [[ "$SSH_CONNECTION" != '' ]]; then
