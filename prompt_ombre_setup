@@ -70,7 +70,7 @@ _generate_rprompt() {
     rprompt_content+="${vcs_info_msg_0_}"
   fi
 
-  RPROMPT="%F{black}${rprompt_content}%f"
+  RPROMPT="%F{default}${rprompt_content}%f"
 }
 
 _ombre_keymap_select() {
