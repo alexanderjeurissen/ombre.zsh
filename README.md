@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/alexanderjeurissen/ombre.zsh/master/assets/ombre_logo.png)
+![image](https://raw.githubusercontent.com/alexanderjeurissen/ombre.zsh/main/assets/ombre_logo.png)
 
 >Some little splinter of shadow purls, and weals down the slewed stone chapel steps.
 >Slinks along the riverrock wall, and disappears into the light.
@@ -8,17 +8,17 @@
 A light Black & White ZSH prompt that favors simplicity and minimalism.
 Looks even more awesome when combined with [Sombre.tmux](https://github.com/alexanderjeurissen/sombre.tmux)
 
-![image](https://raw.githubusercontent.com/alexanderjeurissen/ombre.zsh/master/assets/commiting.png)
+![image](https://raw.githubusercontent.com/alexanderjeurissen/ombre.zsh/main/assets/commiting.png)
 
 ## Additional Screenshots
 ### Rebasing
-![image](https://raw.githubusercontent.com/alexanderjeurissen/ombre.zsh/master/assets/interactive_rebase.png)
+![image](https://raw.githubusercontent.com/alexanderjeurissen/ombre.zsh/main/assets/interactive_rebase.png)
 
 ### Solving a merge conflict
-![image](https://raw.githubusercontent.com/alexanderjeurissen/ombre.zsh/master/assets/merging.png)
+![image](https://raw.githubusercontent.com/alexanderjeurissen/ombre.zsh/main/assets/merging.png)
 
 ### Magic enter (pressing enter with empty command line)
-![image](https://raw.githubusercontent.com/alexanderjeurissen/ombre.zsh/master/assets/magic_enter.png)
+![image](https://raw.githubusercontent.com/alexanderjeurissen/ombre.zsh/main/assets/magic_enter.png)
 
 ## Installation
 I personally use [zplug](https://github.com/zplug/zplug) as my zsh plugin manager of choice.
